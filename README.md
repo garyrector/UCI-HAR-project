@@ -10,8 +10,11 @@
              Vitoria-Gasteiz, Spain. Dec 2012
              
 **The files contained in this repo are:**
+
     FILE                    PURPOSE
+
     _________________________________________________________________________________________________________
+
 *    README.md               This file -- start reading here to understand my submission
 *    run_analysis.R          R script to read raw data and prepare final tidy data set
 *    CodeBook.md             Markdown file that describes the raw data, variables, analysis, and output data
