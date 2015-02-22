@@ -1,0 +1,12 @@
+----- Analysis Log File -----
+File downloaded on Fri Feb 20 17:14:08 2015 : rawdata.zip
+rawdata.zip contents: UCI HAR Dataset
+Read training and test observation data
+Read subject data
+Read activity data
+Activity numeric values replaced with labels
+Subject and activity variables joined to observation data
+Training and test data sets combined into one set
+Mean and standard deviation variables identified
+Tidy data set created by restricting set to variables above
+Set of averages created from tidy data
